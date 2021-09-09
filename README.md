@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Lint
 
-Run `npm run lint` to linte the code with ts-standard.
+Run `npm run lint` to lintear the code with ts-standard.
 
 ## Further help
 

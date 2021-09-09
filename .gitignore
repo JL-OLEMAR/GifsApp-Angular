@@ -1,3 +1,13 @@
+.vscode
+.package-lock.json
+
+.env
+.environment.*
+environments.*
+environments/**
+**/environments.*
+**/environments/**
+
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
