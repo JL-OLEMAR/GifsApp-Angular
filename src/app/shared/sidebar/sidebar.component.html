@@ -4,6 +4,7 @@
   <div class="list-group list-reset">
     <a
       *ngFor="let gifsSearched of historial"
+      (click)="buscar(gifsSearched)"
       href="#"
       class="list-group-item list-group-item-action"
     >
